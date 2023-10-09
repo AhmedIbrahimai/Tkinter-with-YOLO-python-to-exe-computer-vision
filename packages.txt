@@ -1,0 +1,6 @@
+pip install opencv-python
+pip install ultralytics
+pip install pywin32
+pip install pillow
+pip install cvzone
+pip install pyinstaller

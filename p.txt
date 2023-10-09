@@ -1,0 +1,2 @@
+pyinstaller --onefile -w myapp.py
+pyinstaller myapp.spec
